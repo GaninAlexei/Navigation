@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <string name="own_camera">Own camera</string>
+    <string name="another_camera_app">Another camera app</string>
+    <string name="list_activity">List Activity</string>
+    <string name="item">Item</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="start_me_again">Start me again</string>
+    <string name="logout">logout</string>
+</resources>
